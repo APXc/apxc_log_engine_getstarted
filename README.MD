@@ -17,7 +17,7 @@ npm install
 
 
 
-for start goto to a file on `/APXC_LOG_ENGINE/log.js` and modify a constant `TOKEN` with the value of your token create on portal 
+for start go to a file on `/APXC_LOG_ENGINE/log.js` and modify a constant `TOKEN` with the value of your token create on portal 
 
 ```javascript
 
