@@ -1,0 +1,21 @@
+# YAML 1.2
+---
+abstract: "Command line program to convert from Citation File Format to various other formats such as BibTeX, EndNote, RIS, schema.org, and .zenodo.json."
+authors:
+  -
+    affiliation: "AP"
+    family-names: Pellizzaro
+    given-names: Alessio
+    orcid: https://orcid.org/0000-0001-6164-0181
+cff-version: "1.0.3"
+date-released: 2023-04-01
+keywords:
+  - "APXC"
+  - "Log"
+  - "Activity Log"
+  - "APXC Log Enigne"
+license: MPL-2.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/APXc/node-red-contrib-apxc-nth-layerone.git"
+title: node-red-contrib-apxc-nth-layerone
+version: "0.0.1"
