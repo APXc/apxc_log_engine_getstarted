@@ -77,7 +77,7 @@ curl --location 'http://localhost:3000/process' \
 
 
 
-for read a function of write log goto file `/controler/general.js`
+for read a function of write log go to file `/controler/general.js`
 
 ```javascript
 
