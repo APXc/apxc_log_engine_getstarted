@@ -19,7 +19,7 @@ WarnLog  = async (obj, message, group) => {
 }
 
 infoLog  = async (obj,  message, group) => {
-    await sendLog(LEVEL.INFO, `Warning On Process - ${message}`, 'Send Request', obj, group);
+    await sendLog(LEVEL.INFO, `Info On Process - ${message}`, 'Send Request', obj, group);
 }
 
 CompleteLog  = async (obj, group) => {
