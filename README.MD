@@ -1,4 +1,4 @@
-# NODEJS DEMO REST - APXC Log Engine
+# NODEJS APP DEMO - APXC Log Engine
 
 this nodejs script it's a simple rest app engine for get a Product to integrate a [APXC Log Engine](https://log.apserial.it)
 
