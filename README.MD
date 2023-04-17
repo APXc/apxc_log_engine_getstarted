@@ -4,10 +4,10 @@ this nodejs script it's a simple rest app engine for get a Product to integrate 
 
 
 
-download & install packege a demo script
+init a demo script
 
-```git
-git clone 
+```bash
+git clone https://github.com/APXc/apxc_log_engine_getstarted.git
 ```
 
 ```bash
@@ -78,7 +78,7 @@ curl --location 'http://localhost:3000/process' \
 
 
 
-for read a funciont of write log goto file `/controler/general.js`
+for read a function of write log goto file `/controler/general.js`
 
 ```javascript
 

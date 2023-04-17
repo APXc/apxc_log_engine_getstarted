@@ -16,6 +16,6 @@ keywords:
   - "APXC Log Enigne"
 license: MPL-2.0
 message: "If you use this software, please cite it using these metadata."
-repository-code: "https://github.com/APXc/node-red-contrib-apxc-nth-layerone.git"
-title: node-red-contrib-apxc-nth-layerone
+repository-code: "https://github.com/APXc/apxc_log_engine_getstarted.git"
+title: apxc_log_engine_getstarted
 version: "0.0.1"
