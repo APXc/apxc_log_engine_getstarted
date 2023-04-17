@@ -69,7 +69,6 @@ Now you can try making an http request to the endpoint
 
 ```bash
 curl --location 'http://localhost:3000/process' \
---header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb2RlIjoiJDJhJDEyJC9pZUJaLkhNY0pHM2ZWcE40MTF1NC5lbnJiZXlkTUhnL0VFRXJpZVJaSllkaEdCRTNkMS55IiwiaWF0IjoxNjgwNzI2MzMzfQ.FDN5nAHl7Uf6qPAe-9VKVgxxMA7CDJ5YGFw2PPRLeXY' \
 --header 'Content-Type: application/json' \
 --data '{
     "id" : "1"
